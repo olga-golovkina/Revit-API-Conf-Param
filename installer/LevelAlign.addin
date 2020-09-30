@@ -1,19 +1,19 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <RevitAddIns>
   <AddIn Type="Command">
-    <Text>Command ConfParam</Text>
-    <Description>Some description for ConfParam</Description>
-    <Assembly>ConfParam.dll</Assembly>
-    <FullClassName>ConfParam.Command</FullClassName>
-    <ClientId>a7fb6035-60ec-4368-bff9-9eac2ac0086b</ClientId>
+    <Text>Command LevelAlign</Text>
+    <Description>Some description for LevelAlign</Description>
+    <Assembly>LevelAlign.dll</Assembly>
+    <FullClassName>LevelAlign.Command</FullClassName>
+    <ClientId>940ebb76-5e2d-4ad1-a33c-02bc5fcf3619</ClientId>
     <VendorId>com.typepad.thebuildingcoder</VendorId>
     <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
   </AddIn>
   <AddIn Type="Application">
-    <Name>Application ConfParam</Name>
-    <Assembly>ConfParam.dll</Assembly>
-    <FullClassName>ConfParam.App</FullClassName>
-    <ClientId>aad0ee55-edb9-4425-867a-7776a035e302</ClientId>
+    <Name>Application LevelAlign</Name>
+    <Assembly>LevelAlign.dll</Assembly>
+    <FullClassName>LevelAlign.App</FullClassName>
+    <ClientId>1e86c242-f138-4271-9b7a-ff3983c4a56f</ClientId>
     <VendorId>com.typepad.thebuildingcoder</VendorId>
     <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
   </AddIn>
