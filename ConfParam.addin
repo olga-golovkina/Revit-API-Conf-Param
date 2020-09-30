@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command ConfParam</Text>
+    <Description>Some description for ConfParam</Description>
+    <Assembly>ConfParam.dll</Assembly>
+    <FullClassName>ConfParam.Command</FullClassName>
+    <ClientId>a7fb6035-60ec-4368-bff9-9eac2ac0086b</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application ConfParam</Name>
+    <Assembly>ConfParam.dll</Assembly>
+    <FullClassName>ConfParam.App</FullClassName>
+    <ClientId>aad0ee55-edb9-4425-867a-7776a035e302</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>

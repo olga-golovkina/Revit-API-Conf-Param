@@ -1,0 +1,292 @@
+D:\bimacad\ConfParam\ConfParam\bin\Debug\ConfParam.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\ConfParam.pdb
+D:\bimacad\ConfParam\ConfParam\bin\Debug\RevitAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\RevitAPIUI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\RevitAPIFoundation.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\RevitDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\PersistenceDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\UtilityAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\APIDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\GraphicsAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\ElementGroupDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\EssentialsDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\GeomUtilAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\FamilyDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\DetailDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\CurtainGridFamilyDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\ArrayElemsDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\EnergyAnalysisDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\BuildingSystemsDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\HostObjDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\RoomAreaPlanDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\SiteDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\SculptingDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\StructuralDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\InterfaceAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\InterfaceUtilAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\RebarDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\StructuralAnalysisDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\MassingDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\AssemblyDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\DPartDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\NumberingDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\PointCloudAccessAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\StairRampDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\AnalysisAppsDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\MaterialDBAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\DBManagedServices.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\AdWindows.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\RevitAddInUtility.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\APIInterop.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\UIFramework.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\AddInManager.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\RevitUIAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\BuildingSystemsUIAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\DesktopMFCAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\APIUIAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\RevitMFCAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\EssentialsUIAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\DetailUIAPI.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\UIFrameworkServices.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\ManagedMC3.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\RevitAPI.xml
+D:\bimacad\ConfParam\ConfParam\bin\Debug\RevitAPIUI.xml
+D:\bimacad\ConfParam\ConfParam\bin\Debug\cs-CZ\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\de-DE\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\en-GB\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\en-US\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\es-ES\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\fr-FR\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\it-IT\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\ja-JP\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\ko-KR\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\pl-PL\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\pt-BR\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\ru-RU\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\zh-CN\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\bin\Debug\zh-TW\AdWindows.resources.dll
+D:\bimacad\ConfParam\ConfParam\obj\Debug\ConfParam.csprojAssemblyReference.cache
+D:\bimacad\ConfParam\ConfParam\obj\Debug\ConfParam.csproj.CoreCompileInputs.cache
+D:\bimacad\ConfParam\ConfParam\obj\Debug\ConfParam.csproj.CopyComplete
+D:\bimacad\ConfParam\ConfParam\obj\Debug\ConfParam.dll
+D:\bimacad\ConfParam\ConfParam\obj\Debug\ConfParam.pdb
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\ConfParam.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\ConfParam.pdb
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\RevitAPIFoundation.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\RevitDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\PersistenceDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\UtilityAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\APIDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\GraphicsAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\EssentialsDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\GeomUtilAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\FamilyDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\DetailDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\HostObjDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\SiteDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\SculptingDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\StructuralDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\InterfaceAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\RebarDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\MassingDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\AssemblyDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\DPartDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\NumberingDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\StairRampDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\MaterialDBAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\DBManagedServices.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\AdWindows.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\RevitAddInUtility.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\APIInterop.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\UIFramework.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\AddInManager.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\RevitUIAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\DesktopMFCAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\APIUIAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\RevitMFCAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\EssentialsUIAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\DetailUIAPI.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\UIFrameworkServices.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\ManagedMC3.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\RevitAPI.xml
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\RevitAPIUI.xml
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\obj\Debug\ConfParam.csprojAssemblyReference.cache
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\obj\Debug\ConfParam.csproj.CoreCompileInputs.cache
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\obj\Debug\ConfParam.csproj.CopyComplete
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\obj\Debug\ConfParam.dll
+C:\Users\o.golovkina\Downloads\Telegram Desktop\ConfParam\ConfParam\obj\Debug\ConfParam.pdb
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\ConfParam.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\ConfParam.pdb
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\RevitAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\RevitAPIUI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\RevitAPIFoundation.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\RevitDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\PersistenceDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\UtilityAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\APIDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\GraphicsAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\EssentialsDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\GeomUtilAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\FamilyDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\DetailDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\HostObjDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\SiteDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\SculptingDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\StructuralDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\InterfaceAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\RebarDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\MassingDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\AssemblyDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\DPartDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\NumberingDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\StairRampDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\MaterialDBAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\DBManagedServices.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\AdWindows.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\RevitAddInUtility.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\APIInterop.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\UIFramework.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\AddInManager.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\RevitUIAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\DesktopMFCAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\APIUIAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\RevitMFCAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\EssentialsUIAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\DetailUIAPI.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\UIFrameworkServices.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\ManagedMC3.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\RevitAPI.xml
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\RevitAPIUI.xml
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\obj\Debug\ConfParam.csprojAssemblyReference.cache
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\obj\Debug\ConfParam.csproj.CoreCompileInputs.cache
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\obj\Debug\ConfParam.csproj.CopyComplete
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\obj\Debug\ConfParam.dll
+C:\Users\Zeroxin\Downloads\proga\ConfParam\ConfParam\obj\Debug\ConfParam.pdb
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\ConfParam.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\ConfParam.pdb
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\RevitAPIFoundation.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\RevitDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\PersistenceDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\UtilityAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\APIDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\GraphicsAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\ElementGroupDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\EssentialsDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\GeomUtilAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\FamilyDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\DetailDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\CurtainGridFamilyDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\ArrayElemsDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\EnergyAnalysisDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\BuildingSystemsDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\HostObjDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\RoomAreaPlanDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\SiteDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\SculptingDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\StructuralDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\InterfaceAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\InterfaceUtilAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\RebarDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\StructuralAnalysisDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\MassingDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\AssemblyDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\DPartDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\NumberingDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\PointCloudAccessAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\StairRampDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\AnalysisAppsDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\MaterialDBAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\DBManagedServices.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\AdWindows.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\RevitAddInUtility.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\APIInterop.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\UIFramework.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\AddInManager.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\RevitUIAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\BuildingSystemsUIAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\DesktopMFCAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\APIUIAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\RevitMFCAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\EssentialsUIAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\EnergyAnalysisUtilitiesAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\DetailUIAPI.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\UIFrameworkServices.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\ManagedMC3.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\RevitAPI.xml
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\RevitAPIUI.xml
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\cs-CZ\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\de-DE\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\en-GB\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\en-US\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\es-ES\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\fr-FR\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\it-IT\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\ja-JP\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\ko-KR\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\pl-PL\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\pt-BR\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\ru-RU\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\zh-CN\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\bin\Debug\zh-TW\AdWindows.resources.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\obj\Debug\ConfParam.csprojAssemblyReference.cache
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\obj\Debug\ConfParam.csproj.CoreCompileInputs.cache
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\obj\Debug\ConfParam.csproj.CopyComplete
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\obj\Debug\ConfParam.dll
+C:\Users\o.golovkina\Downloads\ConfParam\ConfParam\obj\Debug\ConfParam.pdb
