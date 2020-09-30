@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command LevelAlign</Text>
+    <Description>Some description for LevelAlign</Description>
+    <Assembly>LevelAlign.dll</Assembly>
+    <FullClassName>LevelAlign.Command</FullClassName>
+    <ClientId>940ebb76-5e2d-4ad1-a33c-02bc5fcf3619</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+  <AddIn Type="Application">
+    <Name>Application LevelAlign</Name>
+    <Assembly>LevelAlign.dll</Assembly>
+    <FullClassName>LevelAlign.App</FullClassName>
+    <ClientId>1e86c242-f138-4271-9b7a-ff3983c4a56f</ClientId>
+    <VendorId>com.typepad.thebuildingcoder</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
